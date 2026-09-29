@@ -1,10 +1,10 @@
 # Python-Expense-Tracker
 Expense Tracker is a simple Python-based tool to record daily expenses and income. It stores data in JSON, shows monthly summaries, and uses a clean menu-based interface. Beginner-friendly, easy to understand, and perfect for learning file handling and basic Python logic. 
 
-Submitted by:[Nityam Jain]  
-Registration Number:[25BCE11391]   
+Submitted by:[Satakshi Soni]  
+Registration Number:[26BAI10461]   
 College:[VIT-BPL]  
-Submission Date:[NOV-25-2025]
+Submission Date:[SEP-29-2026]
 
 # Objective : 
 "To design and implement a simple Expense Tracker application using Python that allows users to record and analyze their financial transactions in an easy and organised manner."
